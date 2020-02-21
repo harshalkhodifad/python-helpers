@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: hello
+Version: 0.3
+Summary: Just for fun
+Home-page: https://github.com/harshalkhodifad
+Author: Harshal K
+Author-email: harshalvkhodifad@gmail.com
+License: UNKNOWN
+Description: # For Fun
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
